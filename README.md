@@ -5,9 +5,7 @@
 <h2 align="center">
     List tugas HTML : 
 </h2>
-<p align="center">
-    <img src="/img/html.png" width=70/>
-</p>
+
 <ol>
     <li>
         Tugas HTML 1 :
