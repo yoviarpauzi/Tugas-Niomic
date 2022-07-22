@@ -1,5 +1,4 @@
 <h1 align="center">Tugas NIOMIC</h1>
-<hr>
 <p align="center">
     <img src="/img/download.png" alt="Image failed to load">
 </p>
