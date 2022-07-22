@@ -5,7 +5,6 @@
 <h2 align="center">
     List tugas HTML : 
 </h2>
-
 <ol>
     <li>
         Tugas HTML 1 :
