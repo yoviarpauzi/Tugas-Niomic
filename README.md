@@ -1,10 +1,8 @@
-<center>
-    <h1>Tugas NIOMIC</h1>
-</center>
+<h1 align="center">Tugas NIOMIC</h1>
 <hr>
-<center>
+<p align="center">
     <img src="/img/download.png" alt="Image failed to load">
-</center>
+</p>
 <h2>
     List tugas HTML : 
 </h2>
