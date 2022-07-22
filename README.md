@@ -1,6 +1,6 @@
 <h1 align="center">Tugas NIOMIC</h1>
 <p align="center">
-    <img src="/img/download.png" alt="Image failed to load">
+    <img src="/img/download.png" alt="Image failed to load" width="300px">
 </p>
 
 
