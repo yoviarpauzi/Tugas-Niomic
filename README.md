@@ -21,4 +21,8 @@
         target="_blank">https://github.com/yoviarpauzi/html-niomic-tugas3
         </a>
     </li>
+    <li>
+        Tugas HTML 4:
+        <a href="https://github.com/yoviarpauzi/html-tugas4-niomic" target="_blank">https://github.com/yoviarpauzi/html-tugas4-niomic</a>
+    </li>
 </ol>
