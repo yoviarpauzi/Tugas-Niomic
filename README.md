@@ -2,10 +2,10 @@
 <p align="center">
     <img src="/img/download.png" alt="Image failed to load">
 </p>
-<h2>
+<h2 align="center">
     List tugas HTML : 
 </h2>
-<p>
+<p align="center">
     <img src="/img/html.png" width=70/>
 </p>
 <ol>
