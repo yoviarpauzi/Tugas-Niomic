@@ -4,7 +4,7 @@
 </p>
 
 
-## 1. HTML
+## - HTML
 - [Tugas HTML 1](https://github.com/yoviarpauzi/html-tugas1-niomic) - Head element.
 - [Tugas HTML 2](https://github.com/yoviarpauzi/html-tugas2-niomic) - Heading element.
 - [Tugas HTML 3](https://github.com/yoviarpauzi/html-niomic-tugas3) - Head element, Paragraph.
