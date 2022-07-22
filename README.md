@@ -1,7 +1,7 @@
-<h1 align="center">Tugas NIOMIC</h1>
 <p align="center">
     <img src="/img/download.png" alt="Image failed to load">
 </p>
+<h1 align="center">Tugas NIOMIC</h1>
 
 
 ## 1. HTML
