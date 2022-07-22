@@ -5,6 +5,9 @@
 <h2>
     List tugas HTML : 
 </h2>
+<p>
+    <img src="/img/html.png" width=70/>
+</p>
 <ol>
     <li>
         Tugas HTML 1 :
