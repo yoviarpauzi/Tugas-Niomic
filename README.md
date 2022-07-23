@@ -3,7 +3,6 @@
     <img src="/img/download.png" alt="Image failed to load" width="300px">
 </p>
 
-
 ## 1. HTML
 - [Tugas HTML 1](https://github.com/yoviarpauzi/html-tugas1-niomic) - Head element.
 - [Tugas HTML 2](https://github.com/yoviarpauzi/html-tugas2-niomic) - Heading element.
