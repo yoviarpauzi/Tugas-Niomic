@@ -16,3 +16,4 @@
 - [Tugas HTML 9](https://github.com/yoviarpauzi/html-tugas9-niomic) - Iframe.
 - [Tugas HTML 10](https://github.com/yoviarpauzi/html-tugas10-niomic) - Audio element.
 - [Tugas HTML 11](https://github.com/yoviarpauzi/html-tugas11-niomic) - Video element.
+- [Tugas HTML 12](https://github.com/yoviarpauzi/html-tugas12-niomic) - Table, img, audio, video
