@@ -17,4 +17,4 @@
 - [Tugas HTML 11](https://github.com/yoviarpauzi/html-tugas11-niomic) - Video element.
 - [Tugas HTML 12](https://github.com/yoviarpauzi/html-tugas12-niomic) - Table, img, audio, video
 - [Tugas HTML 13](https://github.com/yoviarpauzi/html-tugas13-niomic) - Form, input type text, textarea
-- [Tugas HTML 14](https://github.com/yoviarpauzi/html-tugas14-niomic/blob/master/tugas14-1.html) - Form element
+- [Tugas HTML 14](https://github.com/yoviarpauzi/html-tugas14-niomic) - Form element
