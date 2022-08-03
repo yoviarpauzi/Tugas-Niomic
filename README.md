@@ -15,9 +15,9 @@
 - [Tugas HTML 9](https://github.com/yoviarpauzi/html-tugas9-niomic) - Iframe.
 - [Tugas HTML 10](https://github.com/yoviarpauzi/html-tugas10-niomic) - Audio element
 - [Tugas HTML 11](https://github.com/yoviarpauzi/html-tugas11-niomic) - Video element.
-- [Tugas HTML 12](https://github.com/yoviarpauzi/html-tugas12-niomic) - Table, img, audio, video
-- [Tugas HTML 13](https://github.com/yoviarpauzi/html-tugas13-niomic) - Form, input type text, textarea
-- [Tugas HTML 14](https://github.com/yoviarpauzi/html-tugas14-niomic) - Form element
-- [Tugas HTML 15](https://github.com/yoviarpauzi/html-tugas15-niomic) - Form element
-- [Tugas HTML 16](https://github.com/yoviarpauzi/html-tugas16-niomic) - Form element
-- [Tugas HTML 17](https://github.com/yoviarpauzi/html-tugas17-niomic) - Form element
+- [Tugas HTML 12](https://github.com/yoviarpauzi/html-tugas12-niomic) - Table, img, audio, video.
+- [Tugas HTML 13](https://github.com/yoviarpauzi/html-tugas13-niomic) - Form, input type text, textarea.
+- [Tugas HTML 14](https://github.com/yoviarpauzi/html-tugas14-niomic) - Form element.
+- [Tugas HTML 15](https://github.com/yoviarpauzi/html-tugas15-niomic) - Form element.
+- [Tugas HTML 16](https://github.com/yoviarpauzi/html-tugas16-niomic) - Form element.
+- [Tugas HTML 17](https://github.com/yoviarpauzi/html-tugas17-niomic) - Form element.
