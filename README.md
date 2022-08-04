@@ -27,3 +27,8 @@
 - [Tugas HTMl 21](https://github.com/yoviarpauzi/html-tugas21-niomic) - Form element.
 - [Tugas HTML 22](https://github.com/yoviarpauzi/html-tugas22-niomic) - Form, table.
 - [Tugas HTML 23](https://github.com/yoviarpauzi/html-tugas23-niomic) - Table.
+- [Tugas HTML 24](https://github.com/yoviarpauzi/html-tugas24-niomic) - Table.
+- [Tugas HTML 25](https://github.com/yoviarpauzi/html-tugas25-niomic) - Semantic.
+- [Tugas Akhir HTML](https://github.com/yoviarpauzi/html-tugasakhir-niomic) - Table, image, iframe.
+
+## 2. CSS
