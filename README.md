@@ -24,7 +24,7 @@
 - [Tugas HTML 18](https://github.com/yoviarpauzi/html-tugas18-niomic) - Form element.
 - [Tugas HTML 19](https://github.com/yoviarpauzi/html-tugas19-niomic) - Form element.
 - [Tugas HTML 20](https://github.com/yoviarpauzi/html-tugas20-niomic) - Form element.
-- [Tugas HTMl 21](https://github.com/yoviarpauzi/html-tugas21-niomic) - Form element.
+- [Tugas HTML 21](https://github.com/yoviarpauzi/html-tugas21-niomic) - Form element.
 - [Tugas HTML 22](https://github.com/yoviarpauzi/html-tugas22-niomic) - Form, table.
 - [Tugas HTML 23](https://github.com/yoviarpauzi/html-tugas23-niomic) - Table.
 - [Tugas HTML 24](https://github.com/yoviarpauzi/html-tugas24-niomic) - Table.
