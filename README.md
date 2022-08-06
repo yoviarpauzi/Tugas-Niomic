@@ -29,6 +29,8 @@
 - [Tugas HTML 23](https://github.com/yoviarpauzi/html-tugas23-niomic) - Table.
 - [Tugas HTML 24](https://github.com/yoviarpauzi/html-tugas24-niomic) - Table.
 - [Tugas HTML 25](https://github.com/yoviarpauzi/html-tugas25-niomic) - Semantic.
+- [Study Kasus HTML](https://github.com/yoviarpauzi/html-studykasus-niomic)
 - [Tugas Akhir HTML](https://github.com/yoviarpauzi/html-tugasakhir-niomic) - Table, image, iframe.
 
 ## 2. CSS
+-[Tugas CSS 1]()
