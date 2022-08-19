@@ -33,5 +33,5 @@
 - [Tugas Akhir HTML](https://github.com/yoviarpauzi/html-tugasakhir-niomic) - Table, image, iframe.
 
 ## 2. CSS
--[Tugas CSS 1](https://github.com/yoviarpauzi/css-tugas1-niomic) <br>
--[Tugas CSS 2](https://github.com/yoviarpauzi/css-tugas2-niomic) <br>
+- [Tugas CSS 1](https://github.com/yoviarpauzi/css-tugas1-niomic)
+- [Tugas CSS 2](https://github.com/yoviarpauzi/css-tugas2-niomic)
